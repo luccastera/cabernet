@@ -1,6 +1,6 @@
 # Cabernet
 
-Cabernet is a small blogging engine built with Erlang and YAWS.
+Cabernet is a simple blogging engine built with Erlang and YAWS.
 
 ## License
 
