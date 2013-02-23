@@ -1,6 +1,27 @@
-# Cabernet
+# Cabernet (WIP - NOT READY FOR USE)
 
 Cabernet is a simple blogging engine built with Erlang and YAWS.
+
+
+## Usage
+
+To compile:
+
+```
+make compile
+```
+
+To run:
+
+```
+make run
+```
+
+To start Yaws:
+
+```
+yaws --conf config/yaws.conf -sname cabernet
+```
 
 ## License
 
